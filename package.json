@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "wania3-gymm",
+  "version": "1.0.3",
+  "main": "index.js",
+  "bin": {
+    "wania0-gym": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wania Azam",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "description": ""
+}
